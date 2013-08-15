@@ -1,0 +1,3 @@
+# Insert into your ~/.conkyrc configuration file
+
+${texeci 1800 python ~/.conky_scripts/goocal.py}
